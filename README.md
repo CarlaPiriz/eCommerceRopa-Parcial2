@@ -3,8 +3,8 @@
 GRUPO 1.
 
 - GOZALVEZ, Franco
-- Moreno, Lucas Exequiel
-- Piriz, Carla
+- MORENO, Lucas Exequiel
+- PIRIZ, Carla
 
  // SENTENCIAS GENERATE MODELO // 
 
